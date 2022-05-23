@@ -14,7 +14,3 @@
     Docker,Kubernettes
     jQuery, Modernizr
     React,Java Script,Pyscript,Node.
-# Usage
-    The primary reason for rebasing is to maintain a linear project history. 
-    For example, consider a situation where the main branch has progressed since
-    you started working on a feature branch.
