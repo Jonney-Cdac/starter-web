@@ -17,3 +17,5 @@
 # What is git rebase?
     Rebasing is the process of moving or combining a sequence of commits to a new base commit. 
     Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+#Usage
+The primary reason for rebasing is to maintain a linear project history. For example, consider a situation where the main branch has progressed since you started working on a feature branch.
