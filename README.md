@@ -9,6 +9,9 @@ At PepsiCo, we're committed to achieving business and financial success while le
 imprint on society - delivering what we call Performance with Purpose." 
 
 
-##Secondary Heading 2
+##Amazon
+
+"Our vision is to be earth's most customer centric company; to build a place where people can 
+come to find and discover anything they might want to buy online." 
 
 ##Secondary Heading 3
