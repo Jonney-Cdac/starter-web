@@ -19,3 +19,9 @@ come to find and discover anything they might want to buy online."
 on the planet to achieve more. We strive to create local opportunity, growth, and impact in every 
 country around the world. Our strategy is to build best-in-class platforms and productivity services 
 for an intelligent cloud and an intelligent edge infused with artificial intelligence ("AI")."
+
+##Disney
+
+“To entertain, inform and inspire people around the globe through the power of unparalleled storytelling,
+ reflecting the iconic brands, creative minds and innovative technologies that make ours the world’s premier
+ entertainment company.”
