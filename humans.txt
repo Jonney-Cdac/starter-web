@@ -7,10 +7,10 @@
 
 # THANKS
 
-    <name><Ram><Sham><Ramesh>
+    <name>Ronaldo Messi
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    Gatsby,Mongodb
     jQuery, Modernizr
     React,Java Script,Pyscript,Node.
