@@ -7,10 +7,10 @@
 
 # THANKS
 
-    <name><Raymond><Sydney><James>
+    <name>Harbajan
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    Docker,Kubernettes
     jQuery, Modernizr
     React,Java Script,Pyscript,Node.
